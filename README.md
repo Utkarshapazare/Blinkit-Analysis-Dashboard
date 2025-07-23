@@ -83,47 +83,6 @@ To analyze Blinkit's grocery sales and outlet performance across various categor
 
 The dataset was provided in CSV format and imported into MySQL as:
 
-# 🛒 Blinkit Sales Analysis Dashboard  
-📍 *Data-Driven Storytelling with Power BI & SQL*
-
-This project presents an interactive Power BI dashboard built from Blinkit's grocery sales data, showcasing insights on product performance, outlet metrics, customer ratings, and sales trends using SQL-driven data processing.
-
----
-
-## 🎯 Project Objective
-
-To analyze Blinkit's grocery sales and outlet performance across various categories such as:
-- Item Fat Content
-- Outlet Size and Type
-- Product Categories
-- Geographic Tiers
-- Customer Ratings
-- Year of Establishment
-
----
-
-## 📊 Dashboard Highlights
-
-✨ **Total Sales:** ₹1,000,000+  
-✨ **Items Sold:** 7000+  
-✨ **Average Rating:** 3.9  
-✨ **Filters Included:** Fat Content, Outlet Type, Size, Location Tier  
-
----
-
-## 🛠 Tools & Technologies Used
-
-- **Power BI** – For building the dashboard and interactive visuals  
-- **MySQL** – For querying and aggregating the dataset  
-- **Excel (CSV)** – As the source data file  
-- **Workbench** – For database management
-
----
-
-## 🗃️ Dataset Source
-
-The dataset was provided in CSV format and imported into MySQL as:
-
 Database: blinkit_analysis
 Table: grocery_data
 
